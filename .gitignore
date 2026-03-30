@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+logs/
+*.log
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Mobile (Android/iOS)
+android/key.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+*.keystore
+*.jks
+
+# IDEs/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Credentials
+firebase-service-account.json
