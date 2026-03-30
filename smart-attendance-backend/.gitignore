@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log
+.env
+.env.example
+.env.local
+
+# Editor / OS
+.DS_Store
+.idea/
+*.swp
+*.swo
+
+# Credentials
+firebase-service-account.json
+
+# Logs
+logs/
